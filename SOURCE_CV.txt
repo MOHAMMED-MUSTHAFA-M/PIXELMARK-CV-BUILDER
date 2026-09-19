@@ -1,0 +1,2 @@
+Initial CV data was structured from: MOHAMMED MUSTHAFA M ATS.pdf supplied in the conversation.
+The PDF is not bundled into the web app because it is source material, not an application dependency.

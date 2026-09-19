@@ -1,0 +1,9 @@
+{
+  "name": "Pixelmark CV Builder",
+  "short_name": "Pixelmark CV",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f4",
+  "theme_color": "#00D84A",
+  "icons": [{"src":"./favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
